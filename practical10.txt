@@ -1,0 +1,11 @@
+Practical 10: Inodes, Hard Links and Symbolic Links
+
+1. ls -i displays the inode number of a file.
+2. stat displays file information and link count.
+3. A hard link shares the same inode as the original file.
+4. Deleting the original filename does not remove data
+   while another hard link still exists.
+5. A symbolic link has its own inode and points to
+   another filename.
+6. A symbolic link cannot access its target after the
+   target file is deleted.
