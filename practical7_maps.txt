@@ -1,0 +1,24 @@
+5eaf89ec3000-5eaf89ec4000 r--p 00000000 08:30 13244                      /home/suhas/skilling/src/memory_demo
+5eaf89ec4000-5eaf89ec5000 r-xp 00001000 08:30 13244                      /home/suhas/skilling/src/memory_demo
+5eaf89ec5000-5eaf89ec6000 r--p 00002000 08:30 13244                      /home/suhas/skilling/src/memory_demo
+5eaf89ec6000-5eaf89ec7000 r--p 00002000 08:30 13244                      /home/suhas/skilling/src/memory_demo
+5eaf89ec7000-5eaf89ec8000 rw-p 00003000 08:30 13244                      /home/suhas/skilling/src/memory_demo
+5eaf97145000-5eaf97166000 rw-p 00000000 00:00 0                          [heap]
+71e3b2e00000-71e3b2e28000 r--p 00000000 08:30 39921                      /usr/lib/x86_64-linux-gnu/libc.so.6
+71e3b2e28000-71e3b2fc0000 r-xp 00028000 08:30 39921                      /usr/lib/x86_64-linux-gnu/libc.so.6
+71e3b2fc0000-71e3b300e000 r--p 001c0000 08:30 39921                      /usr/lib/x86_64-linux-gnu/libc.so.6
+71e3b300e000-71e3b3012000 r--p 0020e000 08:30 39921                      /usr/lib/x86_64-linux-gnu/libc.so.6
+71e3b3012000-71e3b3014000 rw-p 00212000 08:30 39921                      /usr/lib/x86_64-linux-gnu/libc.so.6
+71e3b3014000-71e3b3021000 rw-p 00000000 00:00 0 
+71e3b303c000-71e3b303f000 rw-p 00000000 00:00 0 
+71e3b3045000-71e3b3047000 rw-p 00000000 00:00 0 
+71e3b3047000-71e3b304b000 r--p 00000000 00:00 0                          [vvar]
+71e3b304b000-71e3b304d000 r--p 00000000 00:00 0                          [vvar_vclock]
+71e3b304d000-71e3b304f000 r-xp 00000000 00:00 0                          [vdso]
+71e3b304f000-71e3b3050000 r--p 00000000 08:30 39916                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+71e3b3050000-71e3b307f000 r-xp 00001000 08:30 39916                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+71e3b307f000-71e3b308a000 r--p 00030000 08:30 39916                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+71e3b308a000-71e3b308c000 r--p 0003b000 08:30 39916                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+71e3b308c000-71e3b308d000 rw-p 0003d000 08:30 39916                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+71e3b308d000-71e3b308e000 rw-p 00000000 00:00 0 
+7ffc584ef000-7ffc58510000 rw-p 00000000 00:00 0                          [stack]
